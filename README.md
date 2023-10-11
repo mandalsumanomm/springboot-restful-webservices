@@ -1,2 +1,2 @@
-# springboot-restrul-webservices
-springboot-restrul-webservices
+# springboot-restful-webservices
+springboot-restful-webservices
